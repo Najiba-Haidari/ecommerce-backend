@@ -46,11 +46,10 @@ By the completion of this back-end developement, you can easily view all section
 
 ## Video URL 
 
-https://drive.google.com/file/d/11jFx7WlkhBWvra7S1FbniOvWLI81iSXR/view 
-It is also attached in the repo within assets folder.
+https://drive.google.com/file/d/11jFx7WlkhBWvra7S1FbniOvWLI81iSXR/view .It is also attached in the repo within assets folder.
 
 ## URL of Github Repository
-Repo URL: 
+Repo URL: https://najiba-haidari.github.io/ecommerce-backend/ 
 
 ## Credits
 
